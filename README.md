@@ -49,8 +49,7 @@ To run the project and generate insights:
 - Load the dataset **(Mall_Customers.csv)**.
 - Run the **K-Means Clustering** notebook to preprocess the data, perform clustering, and visualize results.
 - Open the **Power BI dashboard** (CustomerSegmentation.pbix) for advanced visualizations and analysis.
-
- 
+  
 ## Results
 - The model segmented customers into 5 clusters, such as:
   - **Cluster 0:** Low-income, low spenders.
